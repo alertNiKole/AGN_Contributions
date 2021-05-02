@@ -1,0 +1,25 @@
+{
+  "name": "contributions",
+  "version": "1.0.0",
+  "description": "a collection of stories contributed to agn",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alertNiKole/AGN_Contributions.git"
+  },
+  "keywords": [
+    "agoodnotary",
+    "collections",
+    "mongodb",
+    "alertnikole"
+  ],
+  "author": "NiKole Maxwell",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alertNiKole/AGN_Contributions/issues"
+  },
+  "homepage": "https://github.com/alertNiKole/AGN_Contributions#readme"
+}
