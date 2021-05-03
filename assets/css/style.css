@@ -1,0 +1,24 @@
+
+html * {
+	/* background-color: green; */
+		font-family: 'Kodchasan', sans-serif;
+}
+h1 {
+	font-size: 4em !important;
+}
+p {
+	margin: 10px 0 !important;
+}
+.login-container{
+	width: 40%;
+	margin-top: 50px;
+	text-align: center;
+}
+
+.green {
+	color:#4aca3a;
+}
+
+/* .fas.fa-book-reader.green {
+	font-size: 2em;
+} */
